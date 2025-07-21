@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@clerk/clerk-expo": "^2.14.9",
+    "expo-auth-session": "^6.2.1",
+    "expo-crypto": "^14.1.5",
+    "expo-secure-store": "^14.2.3"
+  }
+}
