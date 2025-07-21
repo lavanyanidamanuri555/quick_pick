@@ -4,7 +4,6 @@
 -      "clerkFrontendApi": "https://refined-swift-18.clerk.accounts.dev",
 -      "backendApiUrl": "https://api.clerk.com",
 -      "expoClientId": "https://auth.expo.io/@yogitha1/quickpick"
-+      "clerkPublishableKey": "pk_test_cmVmaW5lZC1zd2lmdC0xOC5jbGVyay5hY2NvdW50cy5kZXYk"
      }
    }
  }
